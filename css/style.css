@@ -86,7 +86,7 @@ main .lista {
     border-radius: 5px;
 }
 
-main ul {
+main ul, main li {
     list-style: none;
 }
 
