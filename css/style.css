@@ -81,7 +81,7 @@ section .bianco {
 
 main .lista {
     background-color: white;
-    padding: 30px 50px;
+    padding: 5px 50px 30px;
     margin-top: 2px;
     border-radius: 5px;
 }
